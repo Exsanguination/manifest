@@ -443,7 +443,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor/lge" name="Exsanguination/vendor_lge" remote="gh" revision="lp-mr1" />
+  <project path="vendor/lge/hammerhead" name="Exsanguination/vendor_lge_hammerhead" remote="gh" revision="lp-mr1" />
   <project path="vendor/lge/mako" name="Exsanguination/vendor_lge_mako" remote="gh" revision="lp-mr1" />
   <project path="vendor/moto/shamu" name="Exsanguination/vendor_moto_shamu" remote="gh" revision="lp-mr1" />
   <project path="vendor/moto/shamu" name="Exsanguination/vendor_exsanguination" remote="gh" revision="lp-mr1" />
